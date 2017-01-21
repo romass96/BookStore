@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BookStoreSpringJdbc:war">
+    <output-path>$PROJECT_DIR$/BookStoreSpringJdbc/target</output-path>
+    <root id="archive" name="BookStoreSpringJdbc-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BookStoreSpringJdbc:war exploded" />
+    </root>
+  </artifact>
+</component>
