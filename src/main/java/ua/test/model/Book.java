@@ -1,4 +1,4 @@
-package ua.test.Logic;
+package ua.test.model;
 
 import java.util.List;
 
@@ -13,6 +13,8 @@ public class Book {
     public Book(long id, String name) {
         this.id = id;
         this.name = name;
+    }
+    public Book() {
     }
 
     public String getName() {

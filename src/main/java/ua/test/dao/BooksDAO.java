@@ -1,4 +1,7 @@
-package ua.test.Logic;
+package ua.test.dao;
+
+import ua.test.model.Author;
+import ua.test.model.Book;
 
 import java.sql.*;
 import java.util.ArrayList;

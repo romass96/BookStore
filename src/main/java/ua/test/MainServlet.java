@@ -1,15 +1,14 @@
 package ua.test;
 
-import ua.test.Logic.Author;
-import ua.test.Logic.Book;
-import ua.test.Logic.BooksDAO;
+import ua.test.model.Author;
+import ua.test.model.Book;
+import ua.test.dao.BooksDAO;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 
 /**

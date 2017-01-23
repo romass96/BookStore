@@ -1,7 +1,7 @@
 package ua.test;
 
-import ua.test.Logic.Author;
-import ua.test.Logic.Book;
+import ua.test.model.Author;
+import ua.test.model.Book;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
