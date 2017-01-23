@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f92bb845-f323-447c-b09a-42eeab922c14" name="Default" comment="" />
+    <list default="true" id="f92bb845-f323-447c-b09a-42eeab922c14" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BookStoreSpringJdbc/src/main/java/ua/test/BookServlet.java" afterPath="$PROJECT_DIR$/BookStoreSpringJdbc/src/main/java/ua/test/BookServlet.java" />
+    </list>
     <ignored path="BookStore.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,34 +50,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BooksDAO.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/src/main/java/ua/test/Logic/BooksDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="51" column="70" selection-start-line="51" selection-start-column="70" selection-end-line="51" selection-end-column="70" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1484151230666" expanded="true" signature="1101:1148" placeholder="SELECT id, n... authors" />
-                <marker date="1484151230666" expanded="true" signature="1674:1723" placeholder="SELECT id ,n... books" />
-                <marker date="1484151230666" expanded="true" signature="2316:2365" placeholder="SELECT id, n... authors" />
-                <marker date="1484151230666" expanded="true" signature="2843:2890" placeholder="SELECT id ,n... books" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BooksDaoTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/src/test/java/ua/test/Logic/BooksDaoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+            <state relative-caret-position="379">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -83,7 +62,32 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-              <folding />
+              <folding>
+                <element signature="e#341#342#0" expanded="false" />
+                <element signature="e#368#369#0" expanded="false" />
+                <element signature="e#408#409#0" expanded="false" />
+                <element signature="e#440#441#0" expanded="false" />
+                <element signature="e#480#481#0" expanded="false" />
+                <element signature="e#510#511#0" expanded="false" />
+                <element signature="e#562#563#0" expanded="false" />
+                <element signature="e#600#601#0" expanded="false" />
+                <element signature="e#627#628#0" expanded="false" />
+                <element signature="e#652#653#0" expanded="false" />
+                <element signature="e#686#687#0" expanded="false" />
+                <element signature="e#714#715#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BookServlet.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/src/main/java/ua/test/BookServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,7 +97,20 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-              <folding />
+              <folding>
+                <element signature="e#472#473#0" expanded="false" />
+                <element signature="e#497#498#0" expanded="false" />
+                <element signature="e#531#532#0" expanded="false" />
+                <element signature="e#554#555#0" expanded="false" />
+                <element signature="e#585#586#0" expanded="false" />
+                <element signature="e#612#613#0" expanded="false" />
+                <element signature="e#652#653#0" expanded="false" />
+                <element signature="e#684#685#0" expanded="false" />
+                <element signature="e#720#721#0" expanded="false" />
+                <element signature="e#748#749#0" expanded="false" />
+                <element signature="e#794#795#0" expanded="false" />
+                <element signature="e#828#829#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -128,6 +145,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -159,6 +179,7 @@
         <option value="$PROJECT_DIR$/BookStoreSpringJdbc/src/test/java/ua/test/Logic/BooksDaoTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/BookStoreSpringJdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/BookStoreSpringJdbc/src/main/java/ua/test/BookServlet.java" />
       </list>
     </option>
   </component>
@@ -195,7 +216,7 @@
     <option name="width" value="1378" />
     <option name="height" value="735" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -341,17 +362,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BookStoreSpringJdbc/target/BookStoreSpringJdbc-1.0-SNAPSHOT.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -962,18 +983,21 @@
       <workItem from="1484232697321" duration="4832000" />
       <workItem from="1484919307902" duration="1012000" />
       <workItem from="1485011178268" duration="27000" />
+      <workItem from="1485023919851" duration="3076000" />
+      <workItem from="1485179347284" duration="1528000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41262000" />
+    <option name="totallyTimeSpent" value="45866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -985,7 +1009,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290469" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -997,7 +1021,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1015,6 +1038,9 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -1028,7 +1054,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="e#472#473#0" expanded="false" />
+            <element signature="e#497#498#0" expanded="false" />
+            <element signature="e#531#532#0" expanded="false" />
+            <element signature="e#554#555#0" expanded="false" />
+            <element signature="e#585#586#0" expanded="false" />
+            <element signature="e#612#613#0" expanded="false" />
+            <element signature="e#652#653#0" expanded="false" />
+            <element signature="e#684#685#0" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#748#749#0" expanded="false" />
+            <element signature="e#794#795#0" expanded="false" />
+            <element signature="e#828#829#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1077,7 +1116,7 @@
         <state relative-caret-position="1020">
           <caret line="77" column="70" selection-start-line="77" selection-start-column="70" selection-end-line="77" selection-end-column="70" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <marker date="1484151230666" expanded="true" signature="1101:1148" placeholder="SELECT id, n... authors" />
             <marker date="1484151230666" expanded="true" signature="1674:1723" placeholder="SELECT id ,n... books" />
             <marker date="1484151230666" expanded="true" signature="2316:2365" placeholder="SELECT id, n... authors" />
@@ -1090,7 +1129,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding />
+          <folding>
+            <element signature="e#341#342#0" expanded="false" />
+            <element signature="e#368#369#0" expanded="false" />
+            <element signature="e#408#409#0" expanded="false" />
+            <element signature="e#440#441#0" expanded="false" />
+            <element signature="e#480#481#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
+            <element signature="e#627#628#0" expanded="false" />
+            <element signature="e#652#653#0" expanded="false" />
+            <element signature="e#686#687#0" expanded="false" />
+            <element signature="e#714#715#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1098,7 +1150,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#472#473#0" expanded="false" />
+            <element signature="e#497#498#0" expanded="false" />
+            <element signature="e#531#532#0" expanded="false" />
+            <element signature="e#554#555#0" expanded="false" />
+            <element signature="e#585#586#0" expanded="false" />
+            <element signature="e#612#613#0" expanded="false" />
+            <element signature="e#652#653#0" expanded="false" />
+            <element signature="e#684#685#0" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#748#749#0" expanded="false" />
+            <element signature="e#794#795#0" expanded="false" />
+            <element signature="e#828#829#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1289,14 +1354,14 @@
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/ccf2aa59/8d6c8287-6bb9-48e3-aaf7-5321ec7d688c/bookstore.books">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1311,13 +1376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/src/main/java/ua/test/BookServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1365,36 +1423,14 @@
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/ccf2aa59/8d6c8287-6bb9-48e3-aaf7-5321ec7d688c/bookstore.authors">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/src/main/java/ua/test/Logic/BooksDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="51" column="70" selection-start-line="51" selection-start-column="70" selection-end-line="51" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1484151230666" expanded="true" signature="1101:1148" placeholder="SELECT id, n... authors" />
-            <marker date="1484151230666" expanded="true" signature="1674:1723" placeholder="SELECT id ,n... books" />
-            <marker date="1484151230666" expanded="true" signature="2316:2365" placeholder="SELECT id, n... authors" />
-            <marker date="1484151230666" expanded="true" signature="2843:2890" placeholder="SELECT id ,n... books" />
-          </folding>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1410,7 +1446,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-          <folding />
+          <folding>
+            <element signature="e#341#342#0" expanded="false" />
+            <element signature="e#368#369#0" expanded="false" />
+            <element signature="e#408#409#0" expanded="false" />
+            <element signature="e#440#441#0" expanded="false" />
+            <element signature="e#480#481#0" expanded="false" />
+            <element signature="e#510#511#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
+            <element signature="e#627#628#0" expanded="false" />
+            <element signature="e#652#653#0" expanded="false" />
+            <element signature="e#686#687#0" expanded="false" />
+            <element signature="e#714#715#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1418,7 +1467,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding />
+          <folding>
+            <element signature="e#472#473#0" expanded="false" />
+            <element signature="e#497#498#0" expanded="false" />
+            <element signature="e#531#532#0" expanded="false" />
+            <element signature="e#554#555#0" expanded="false" />
+            <element signature="e#585#586#0" expanded="false" />
+            <element signature="e#612#613#0" expanded="false" />
+            <element signature="e#652#653#0" expanded="false" />
+            <element signature="e#684#685#0" expanded="false" />
+            <element signature="e#720#721#0" expanded="false" />
+            <element signature="e#748#749#0" expanded="false" />
+            <element signature="e#794#795#0" expanded="false" />
+            <element signature="e#828#829#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1435,6 +1497,38 @@
         <state relative-caret-position="340">
           <caret line="30" column="41" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/src/main/java/ua/test/Logic/BooksDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="51" column="78" selection-start-line="51" selection-start-column="78" selection-end-line="51" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <marker date="1484151230666" expanded="true" signature="1101:1148" placeholder="SELECT id, n... authors" />
+            <marker date="1484151230666" expanded="true" signature="1674:1723" placeholder="SELECT id ,n... books" />
+            <marker date="1484151230666" expanded="true" signature="2316:2365" placeholder="SELECT id, n... authors" />
+            <marker date="1484151230666" expanded="true" signature="2843:2890" placeholder="SELECT id ,n... books" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BookStoreSpringJdbc/src/main/java/ua/test/BookServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

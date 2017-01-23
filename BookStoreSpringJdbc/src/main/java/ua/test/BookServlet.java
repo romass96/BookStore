@@ -27,6 +27,8 @@ public class BookServlet extends HttpServlet {
         books.add(new Book(1L,"JSP"));
         books.add(new Book(2L,"JSF"));
         books.add(new Book(3L,"Servlets"));
+        books.add(new Book(4L,"JDBC"));
+        books.add(new Book(5L,"Jenkins"));
 
         books.get(0).setAuthors(authors);
         books.get(0).getAuthors().remove(2);

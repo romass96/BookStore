@@ -1,35 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
   <data-source name="MySQL - bookStore@localhost" uuid="8d6c8287-6bb9-48e3-aaf7-5321ec7d688c">
-    <database-info product="MySQL" version="5.5.40-log" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
-      <extra-name-characters>#@</extra-name-characters>
-      <identifier-quote-string>`</identifier-quote-string>
-    </database-info>
-    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
-    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.5">
-      <schema id="1" name="bookstore"/>
-      <table id="2" parent="1" name="authors"/>
-      <table id="3" parent="1" name="books"/>
-      <column id="4" parent="2" name="id">
-        <mandatory>1</mandatory>
-        <data-type>int(11)</data-type>
-      </column>
-      <column id="5" parent="2" name="name">
-        <data-type>varchar(45)</data-type>
-      </column>
-      <column id="6" parent="2" name="book">
-        <data-type>varchar(45)</data-type>
-      </column>
-      <column id="7" parent="3" name="id">
-        <mandatory>1</mandatory>
-        <data-type>int(11)</data-type>
-      </column>
-      <column id="8" parent="3" name="name">
-        <data-type>varchar(45)</data-type>
-      </column>
-      <column id="9" parent="3" name="author">
-        <data-type>varchar(45)</data-type>
-      </column>
-    </database-model>
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
 </component>
